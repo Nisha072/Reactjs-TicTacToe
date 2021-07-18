@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reactjs-tictactoe/static/css/main.1c69cb1a.chunk.css",
-    "main.js": "/reactjs-tictactoe/static/js/main.1f24b36e.chunk.js",
-    "main.js.map": "/reactjs-tictactoe/static/js/main.1f24b36e.chunk.js.map",
-    "runtime-main.js": "/reactjs-tictactoe/static/js/runtime-main.d2dc6fa8.js",
-    "runtime-main.js.map": "/reactjs-tictactoe/static/js/runtime-main.d2dc6fa8.js.map",
-    "static/css/2.6c0d5f4f.chunk.css": "/reactjs-tictactoe/static/css/2.6c0d5f4f.chunk.css",
-    "static/js/2.24b5f216.chunk.js": "/reactjs-tictactoe/static/js/2.24b5f216.chunk.js",
-    "static/js/2.24b5f216.chunk.js.map": "/reactjs-tictactoe/static/js/2.24b5f216.chunk.js.map",
-    "index.html": "/reactjs-tictactoe/index.html",
-    "static/css/2.6c0d5f4f.chunk.css.map": "/reactjs-tictactoe/static/css/2.6c0d5f4f.chunk.css.map",
-    "static/css/main.1c69cb1a.chunk.css.map": "/reactjs-tictactoe/static/css/main.1c69cb1a.chunk.css.map",
-    "static/js/2.24b5f216.chunk.js.LICENSE.txt": "/reactjs-tictactoe/static/js/2.24b5f216.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/reactjs-tictactoe/static/media/logo.103b5fa1.svg"
+    "main.css": "/Reactjs-TicTacToe/static/css/main.1c69cb1a.chunk.css",
+    "main.js": "/Reactjs-TicTacToe/static/js/main.958ff93b.chunk.js",
+    "main.js.map": "/Reactjs-TicTacToe/static/js/main.958ff93b.chunk.js.map",
+    "runtime-main.js": "/Reactjs-TicTacToe/static/js/runtime-main.50bbf839.js",
+    "runtime-main.js.map": "/Reactjs-TicTacToe/static/js/runtime-main.50bbf839.js.map",
+    "static/css/2.6c0d5f4f.chunk.css": "/Reactjs-TicTacToe/static/css/2.6c0d5f4f.chunk.css",
+    "static/js/2.24b5f216.chunk.js": "/Reactjs-TicTacToe/static/js/2.24b5f216.chunk.js",
+    "static/js/2.24b5f216.chunk.js.map": "/Reactjs-TicTacToe/static/js/2.24b5f216.chunk.js.map",
+    "index.html": "/Reactjs-TicTacToe/index.html",
+    "static/css/2.6c0d5f4f.chunk.css.map": "/Reactjs-TicTacToe/static/css/2.6c0d5f4f.chunk.css.map",
+    "static/css/main.1c69cb1a.chunk.css.map": "/Reactjs-TicTacToe/static/css/main.1c69cb1a.chunk.css.map",
+    "static/js/2.24b5f216.chunk.js.LICENSE.txt": "/Reactjs-TicTacToe/static/js/2.24b5f216.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Reactjs-TicTacToe/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2dc6fa8.js",
+    "static/js/runtime-main.50bbf839.js",
     "static/css/2.6c0d5f4f.chunk.css",
     "static/js/2.24b5f216.chunk.js",
     "static/css/main.1c69cb1a.chunk.css",
-    "static/js/main.1f24b36e.chunk.js"
+    "static/js/main.958ff93b.chunk.js"
   ]
 }
